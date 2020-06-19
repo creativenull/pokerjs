@@ -1,6 +1,10 @@
 # Poker.js
 A simple card poker library written in JS.
 
+Dependencies
+
++ `creativenobu/deckjs`
+
 ## Installation
 To install in your project
 
