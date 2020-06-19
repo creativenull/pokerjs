@@ -1,0 +1,16 @@
+{
+  "env": {
+    "es6": true,
+    "commonjs": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "standard"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 11
+  },
+  "rules": {
+  }
+}
