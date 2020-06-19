@@ -1,0 +1,35 @@
+{
+  "name": "pokerjs",
+  "version": "1.0.0",
+  "description": "A simple poker library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativenobu/pokerjs.git"
+  },
+  "author": "Arnold Chand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creativenobu/pokerjs/issues"
+  },
+  "homepage": "https://github.com/creativenobu/pokerjs#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "eslint": "^7.3.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "deckjs": "github:creativenobu/deckjs"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
