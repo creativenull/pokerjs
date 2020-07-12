@@ -9,9 +9,9 @@ Dependencies
 To install in your project
 
 ```sh
-npm i -S github:creativenobu/pokerjs
+npm i -S github:creativenull/pokerjs
 # OR
-yarn add github:creativenobu/pokerjs
+yarn add github:creativenull/pokerjs
 ```
 
 ## Test
