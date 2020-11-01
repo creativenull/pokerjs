@@ -170,3 +170,5 @@ declare class Poker extends Deck {
    */
   private _isPair (pairs: number[]): boolean
 }
+
+export = Poker
