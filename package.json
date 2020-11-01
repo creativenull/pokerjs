@@ -27,7 +27,7 @@
     "jest": "^26.0.1"
   },
   "dependencies": {
-    "deckjs": "github:creativenull/deckjs#v1.2"
+    "deckjs": "github:creativenull/deckjs#v1.3.1"
   },
   "jest": {
     "verbose": true
