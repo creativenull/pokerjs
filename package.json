@@ -1,6 +1,6 @@
 {
   "name": "@creativenull/pokerjs",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A simple poker library",
   "main": "lib/Poker.js",
   "scripts": {
