@@ -44,5 +44,13 @@
   },
   "lint-staged": {
     "*.js": "prettier-standard --lint"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "poker",
+    "cards",
+    "playingcards"
+  ]
 }
