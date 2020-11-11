@@ -5,7 +5,7 @@ A simple card poker library written in JavaScript.
 To install in your project
 
 ```sh
-npm i -S @creativenull/pokerjs
+npm i @creativenull/pokerjs
 # OR
 yarn add @creativenull/pokerjs
 ```
