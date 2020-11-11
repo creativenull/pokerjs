@@ -1,35 +1,20 @@
 # Poker.js
-
-A simple card poker library written in JS.
-
-Dependencies
-
-+ `@creativenull/deckjs`
+A simple card poker library written in JavaScript.
 
 ## Installation
-
 To install in your project
 
 ```sh
-
 npm i -S @creativenull/pokerjs
-
 # OR
-
 yarn add @creativenull/pokerjs
-
 ```
 
 ## Test
-
 To test
 
 ```sh
-
 npm run test
-
 # OR
-
 yarn test
-
 ```
