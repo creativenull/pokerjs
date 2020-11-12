@@ -32,7 +32,7 @@
     "typescript": "^4.0.5"
   },
   "dependencies": {
-    "deckjs": "github:creativenull/deckjs#v1.4"
+    "@creativenull/deckjs": "^1.4.3"
   },
   "jest": {
     "verbose": true
