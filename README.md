@@ -1,26 +1,23 @@
 # Poker.js
+
 A simple card poker library written in TypeScript.
 
 ## Installation
 
 ```sh
-npm i @creativenull/pokerjs
-# OR
-yarn add @creativenull/pokerjs
+npm install @creativenull/pokerjs
 ```
 
-If using Deno then just import it.
+### Deno
 
 ```ts
-import { Poker } from "jsr:@creativenull/pokejs@2";
+import { Poker } from "jsr:@creativenull/pokerjs@2";
 ```
 
 ## Test
 
 ```sh
 npm run test
-# OR
-yarn test
 ```
 
 ## Usage
