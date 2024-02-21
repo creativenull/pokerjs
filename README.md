@@ -1,5 +1,5 @@
 # Poker.js
-A simple card poker library written in JavaScript.
+A simple card poker library written in TypeScript.
 
 ## Installation
 
