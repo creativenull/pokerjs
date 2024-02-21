@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext", "dom"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "allowJs": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["./src/Poker.ts"]
+}
