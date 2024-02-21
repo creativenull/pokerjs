@@ -11,7 +11,7 @@ yarn add @creativenull/pokerjs
 
 If using Deno then just import it.
 
-```
+```ts
 import { Poker } from "jsr:@creativenull/pokejs@2";
 ```
 
